@@ -1,3 +1,11 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This is a work in progress.
+
+```
+print("Hello World")
+```
+
+o One
+o Two
+o Three
